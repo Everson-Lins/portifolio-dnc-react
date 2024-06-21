@@ -1,0 +1,18 @@
+.btnB{
+    margin-top: 25px;
+    padding: 10px;
+    background: transparent;
+    color: #FFFFFF;
+    width: 300px;
+    height: 35px;
+    border-radius: 15px;
+    border: 2px solid #FFFFFF;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.btnB:hover {
+    background:transparent;
+    transition-duration: 1s;
+    transform: translateY(-7px) translateX(6px);
+}
